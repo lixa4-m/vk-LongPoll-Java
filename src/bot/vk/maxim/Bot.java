@@ -8,8 +8,8 @@ import org.json.simple.JSONObject;
 
 public class Bot {
 
-    private static String GroupId = "194317912";
-    private static String access_token = "692b5ceca46f5931290ecbd260c16dfbc35e629891bb027ba02a2b819bcef114d67948b35623a89566e36";
+    private static String GroupId = "--";
+    private static String access_token = "--";
 
     public static void main(String[] args) throws Exception {
         LongPoolHandler(null, null);
