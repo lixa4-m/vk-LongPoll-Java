@@ -8,5 +8,5 @@
 
 # Links!
 
-####[Java](https://www.oracle.com/ru/java/technologies/javase/javase-jdk8-downloads.html)
-####[Author](https://vk.com/id370926160)
+- [Java](https://www.oracle.com/ru/java/technologies/javase/javase-jdk8-downloads.html)
+- [Author](https://vk.com/id370926160)
