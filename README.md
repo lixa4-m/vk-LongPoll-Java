@@ -10,7 +10,10 @@
   1. Open IDE 
   2. Download and import "json-simple.jar"
   3. Module for messages: **bot.vk.maxim.Bot.MessageHandler**
-  4. Run Project
+  4. Insert access_token and GroupId in bot.vk.maxim.Bot
+  5. Run Project
+
+*Tested on LongPool version: 5.120*
 
 # Links!
 
