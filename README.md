@@ -1,6 +1,7 @@
 # vk-LongPool Java
 
-###Usage:
+###Usage
+
   1. Open IDE 
   2. Download and import "json-simple.jar"
   3. Module for messages: **bot.vk.maxim.Bot.MessageHandler**
