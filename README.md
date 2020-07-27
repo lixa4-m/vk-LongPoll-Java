@@ -1,4 +1,4 @@
-# vk-LongPool Java
+# vk-LongPoll Java
 <p align="center">
     <img src="https://img.shields.io/github/license/lixa4-m/vk-LongPool-Java?style=for-the-badge">
     <img src="https://img.shields.io/github/issues/lixa4-m/vk-LongPool-Java?style=for-the-badge">
